@@ -1,0 +1,4 @@
+to compile use:
+`g++ -o <out_exec_name> main.cpp queue.cpp -pthread
+
+it really works
